@@ -12,7 +12,7 @@ React JS is a popular JavaScript library designed for creating user interfaces, 
 - **Server-Side Rendering (SSR)**: By initially rendering HTML on the server, SSR enhances SEO and speeds up initial page loading for React applications.
 ---
 
-##  💜Here’s a detailed step-by-step guide to get started with React JS.💜
+##  🛸Here’s a detailed step-by-step guide to get started with React JS.🛸
 
 ### 1. **Prepare the Development Environment**
 
